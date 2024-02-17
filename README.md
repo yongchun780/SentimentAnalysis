@@ -1,11 +1,13 @@
 # Sentiment Analysis Notebook
 
-This Jupyter notebook provides a Python implementation for performing sentiment analysis on textual data. It is designed to analyze the sentiment of input texts, classifying them into positive, negative, or neutral categories.
+## Summary
 
-## Team name:
+This Jupyter notebook introduces a sentiment analysis tool developed using Python's Natural Language Toolkit (NLTK) with the VADER sentiment analysis model. Designed to assess the emotional tone behind text samples, our tool categorizes sentiments into positive, negative, or neutral. It leverages the VADER model, which is adept at handling various types of text, making it suitable for analyzing social media posts, reviews, and more. The project showcases the implementation of the tool, including the installation of necessary packages, setup of the sentiment analysis function, and testing with different text samples. The goal is to provide a foundational tool that can be further enhanced and adapted for more complex sentiment analysis tasks, offering a stepping stone for those interested in exploring the nuances of natural language processing and sentiment analysis.
+
+## Team Name
 CyberSquad
 
-## Team members:
+## Team Members
 Yongchun Chen
 
 Zhuochen Dai
