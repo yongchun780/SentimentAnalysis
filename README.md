@@ -4,6 +4,7 @@ This Jupyter notebook provides a Python implementation for performing sentiment 
 
 ## Team members:
 Yongchun Chen
+
 Zhuochen Dai
 
 ## Getting Started
@@ -44,11 +45,3 @@ Open `sentimentAnalysis.ipynb` and execute the cells sequentially to perform sen
 ## How It Works
 
 This notebook implements sentiment analysis using the NLTK library. It processes textual data, evaluates the sentiment expressed within, and classifies each text as positive, negative, or neutral based on predefined criteria.
-
-## Contributing
-
-Feel free to fork the repository, make changes, and submit pull requests if you have ideas for improvements or additions to the sentiment analysis process.
-
-## License
-
-This project is open source and available under [INSERT LICENSE HERE].
