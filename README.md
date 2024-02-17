@@ -2,6 +2,9 @@
 
 This Jupyter notebook provides a Python implementation for performing sentiment analysis on textual data. It is designed to analyze the sentiment of input texts, classifying them into positive, negative, or neutral categories.
 
+## Team name:
+CyberSquad
+
 ## Team members:
 Yongchun Chen
 
@@ -45,3 +48,6 @@ Open `sentimentAnalysis.ipynb` and execute the cells sequentially to perform sen
 ## How It Works
 
 This notebook implements sentiment analysis using the NLTK library. It processes textual data, evaluates the sentiment expressed within, and classifies each text as positive, negative, or neutral based on predefined criteria.
+
+## What's Next
+Future enhancements for our sentiment analysis tool include integrating advanced machine learning models like BERT for deeper contextual understanding, expanding language support to accommodate global users, and customizing the sentiment lexicon for domain-specific jargon. Additionally, real-time analysis capabilities through social media API integration could offer dynamic insights, making our tool more versatile and powerful.
